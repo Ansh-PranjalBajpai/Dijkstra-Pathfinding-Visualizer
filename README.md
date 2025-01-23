@@ -29,4 +29,8 @@ A 2D grid-based visualization of Dijkstra's algorithm using **SFML** in C++. Thi
    - Windows, macOS, or Linux.
 
 ---
+## References
+https://betterprogramming.pub/exploring-path-finding-algorithms-for-wall-e-98516829633 
+https://www.sfml-dev.org/tutorials/2.5/
+---
 Thank You.
